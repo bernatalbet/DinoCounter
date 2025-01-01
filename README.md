@@ -8,7 +8,7 @@ L'idea és prémer el botó "+" per incrementar el comptador parcial, on la suma
 <table align="center">
     <tr>
         <td><img src="assets/images/PantallaPrincipal.jpg" alt="Pantalla principal" width="250"></td>
-        <td width="100"></td>
+        <td></td>
         <td><img src="assets/images/PantallPrincipalAmbDades.jpg" alt="Pantalla principal amb dades" width="250"></td>
     </tr>
 </table>
